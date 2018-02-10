@@ -1,0 +1,22 @@
+/*
+primary:#ef5350
+p-light:#ff867c
+p-dark:#b61827
+secondary:#558b2f
+s-light:#85bb5c
+s-dark: #255d00
+
+*/
+
+.body{
+    background-color: #ef5350;
+}
+
+/*
+font style <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet"> font-family: 'Quicksand', sans-serif;
+*/
+
+h1,
+h2{
+    font-family: 'Quicksand', sans-serif
+}
